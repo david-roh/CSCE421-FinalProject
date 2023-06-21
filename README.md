@@ -7,4 +7,4 @@ Running various machine learning approaches on a Kaggle dataset consisting of 13
 - Performing EDA and feature engineering
 - Catboost, Random Forest, ElasticNet, Gradient Boosting, KNN, Lasso, LightGBM, Linear Regression, Ridge, SVR, XGBoost, and Ensemble Stacking
 
-The `.ipynb` covers more thoughts and documents my journey.
+`final.ipynb` covers more thoughts and documents my journey.
